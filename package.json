@@ -1,0 +1,12 @@
+{
+  "name": "youtube-clipper-v1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first YouTube clipper for authorized content",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
